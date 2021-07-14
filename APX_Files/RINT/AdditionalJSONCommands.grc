@@ -1,0 +1,15 @@
+﻿'STR#' 32000 "Add-on Name and Description" {
+/* [  1] */		"KeyNote JSON/Python Commands"
+/* [  2] */		"This Add-On implements additional JSON/Python commands."
+}
+
+'STR#' 32500 "Strings for the Menu" {
+/* [   ] */		"Test"
+/* [   ] */		"Python Interface"			
+/* [  1] */			"Place KeyNote"
+/* [  2] */			"Do Create Label"
+}
+
+'STR#' 32600 "Menu Prompt Strings" {
+/* [  1] */		"Status bar text for the \"Start Add-On Command Test Add-On...\" menu command."
+}
